@@ -9,12 +9,12 @@ A Python-based, multi-output regression pipeline for forecasting key basketball 
   - Year-string conversion helper  
   - Automated importance-based feature filtering via Random Forest  
   - Scaling (`StandardScaler`) and polynomial feature expansion (`PolynomialFeatures`)
-- **Model Zoo**  
+- **Models**  
   - Linear Regression  
   - Random Forest Regressor  
   - Gradient Boosting Regressor  
   - XGBoost Regressor
-- **Rigorous Evaluation**  
+- **Evaluation**  
   - Per-target R² and MAE metrics for fine-grained performance insight
 
 ## 🛠️ Tech Stack
