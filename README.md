@@ -1,6 +1,3 @@
-# cebl-projections
-This is a pet project on predicting performance in the CEBL
-
 # CEBL Player Performance & Salary Prediction
 
 A Python-based, multi-output regression pipeline for forecasting key basketball metrics—player rank, PER rank, and salary with bonus—using historical CEBL data. Designed to showcase advanced feature engineering, model selection, and evaluation practices ideal for team analytics and decision support.
